@@ -1,4 +1,4 @@
-#Exercícios da Faculdade em C++
+# Exercícios da Faculdade em C++
 
 Aqui estão todos os exercícios realizados em sala de aula no I semestre na graduação de **Ciência da Computação** na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista, Bahia.
 
