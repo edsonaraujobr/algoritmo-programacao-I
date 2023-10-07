@@ -1,9 +1,7 @@
-# Exercícios da Faculdade em C++
+# Sobre
 
-Aqui estão todos os exercícios realizados em sala de aula no I semestre na graduação de **Ciência da Computação** na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista, Bahia.
+Aqui estão todos os exercícios realizados na matéria de **Algoritmos e Programação I** ministrado pela professora **Cátia Mesquita Brasil Khouri** no I semestre na graduação de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista, Bahia.
 
-As aulas foram ministradas pela professora **Cátia Mesquita Brasil Khouri**.
+Todos os códigos aqui postados são de autoria de @edsonaraujoneto
 
-Conteúdo postado com objetivo de ajudar iniciantes na linguagem c++.
 
-Todos os códigos aqui postados são de autoria de **Edson Araujo de Souza Neto**.
