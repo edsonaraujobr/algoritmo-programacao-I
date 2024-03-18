@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1710791878 source:c:\users\loinh\documents\lab 08\lancamentos.cpp
+	"cabecalho.h"
+
+1710791867 c:\users\loinh\documents\lab 08\cabecalho.h
+
+1710793967 source:c:\users\loinh\documents\lab 08\main.cpp
+	<iostream>
+	"cabecalho.h"
+
+1710792066 source:c:\users\loinh\documents\lab 08\caracoroa.cpp
+	"cabecalho.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<iomanip>
+
