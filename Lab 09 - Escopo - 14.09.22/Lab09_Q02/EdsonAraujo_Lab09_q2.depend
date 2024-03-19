@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1663169126 source:c:\users\cccomp\desktop\edson projetos\02\edsonaraujo_lab09_q2\funcao2.cpp
+	<iostream>
+	"cabecalho.h"
+
+1663169151 c:\users\cccomp\desktop\edson projetos\02\edsonaraujo_lab09_q2\cabecalho.h
+
+1663168446 source:c:\users\cccomp\desktop\edson projetos\02\edsonaraujo_lab09_q2\main.cpp
+	<iostream>
+	"cabecalho.h"
+
+1663168832 source:c:\users\cccomp\desktop\edson projetos\02\edsonaraujo_lab09_q2\funcao.cpp
+	<iostream>
+	"cabecalho.h"
+
+1663180096 source:c:\users\loinh\desktop\algoritmo\roteiro\ex avaliativos\lab 09 - 14.09\edsonaraujo_lab09_q2\funcao.cpp
+	<iostream>
+	"cabecalho.h"
+
+1663169151 c:\users\loinh\desktop\algoritmo\roteiro\ex avaliativos\lab 09 - 14.09\edsonaraujo_lab09_q2\cabecalho.h
+
+1663179991 source:c:\users\loinh\desktop\algoritmo\roteiro\ex avaliativos\lab 09 - 14.09\edsonaraujo_lab09_q2\funcao2.cpp
+	"cabecalho.h"
+
