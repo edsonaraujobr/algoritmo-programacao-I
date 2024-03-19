@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1663762861 source:c:\users\cccomp\desktop\edson projetos\lab10\lab10\funcaomedia.cpp
+	"cabecalho.h"
+
+1663762896 c:\users\cccomp\desktop\edson projetos\lab10\lab10\cabecalho.h
+
+1663763341 source:c:\users\loinh\desktop\algoritmo\roteiro\ex avaliativos\lab 10 - 21.09\questao01\funcaomedia.cpp
+	"cabecalho.h"
+
+1663763353 c:\users\loinh\desktop\algoritmo\roteiro\ex avaliativos\lab 10 - 21.09\questao01\cabecalho.h
+
+1663763418 source:c:\users\loinh\desktop\algoritmo\roteiro\ex avaliativos\lab 10 - 21.09\questao01\main.cpp
+	<iostream>
+	"cabecalho.h"
+
